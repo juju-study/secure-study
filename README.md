@@ -12,3 +12,4 @@
 ## 🖱️ Contents
 
 * [리버싱을 위한 기초 지식](https://github.com/juju-study/secure-study/tree/main/basic_knowledge_for_reversing)
+* [리버싱 시작하기](https://github.com/juju-study/secure-study/tree/main/getting_started_reversing)
